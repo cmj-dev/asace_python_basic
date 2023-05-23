@@ -5,3 +5,4 @@
 ### [1주차 (4월 4일)](https://github.com/cmj-dev/asace_python_basic/blob/main/weekly/1w.ipynb)
 ### [2주차 (5월 2일)](https://github.com/cmj-dev/asace_python_basic/blob/main/weekly/2w.ipynb)
 ### [3주차 (5월 9일)](https://github.com/cmj-dev/asace_python_basic/blob/main/weekly/3w.ipynb)
+### [5주차 (5월 23일)](https://github.com/cmj-dev/asace_python_basic/blob/main/weekly/5w.ipynb)
